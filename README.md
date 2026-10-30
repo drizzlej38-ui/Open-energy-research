@@ -29,7 +29,7 @@ A paper's existence does not establish its conclusions. A patent does not establ
 4. Supercapacitors, photocapacitors, and photo-rechargeable storage.
 5. Emerging materials, including bismuth sulfide (Bi2S3) and layered structures.
 6. Ambient energy harvesting and waste-heat recovery.
-7. Unconventional energy hypotheses, including zero-point energy (ZPE) and the user's ZPM concept.
+7. Unconventional energy hypotheses, including zero-point energy (ZPE) and the ZPM concept.
 8. Energy transmission, conversion, buffering, and distributed power systems.
 9. Experimental methodology, source auditing, and reproducibility.
 
@@ -58,6 +58,7 @@ See [HiveNet integration roadmap](07-hivenet-integration/README.md).
 ## Initial records
 
 - [Zero-Point Module (ZPM) research track](02-unconventional-energy/ZPM_ZERO_POINT_MODULE.md)
+- [Original ZPM conceptual blueprint transcription](02-unconventional-energy/ZPM_ORIGINAL_BLUEPRINT_TRANSCRIPTION.md)
 - [Solar collection and orbital-first concepts](01-generation/solar/ORBITAL_SOLAR_COLLECTION.md)
 - [Solar filament concept](01-generation/solar/SOLAR_FILAMENT_CONCEPT.md)
 - [Modified thermopile concept — context gap](03-conversion/thermoelectric/MODIFIED_THERMOPILE_CONTEXT_GAP.md)
